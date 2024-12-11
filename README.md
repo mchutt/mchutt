@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mchutt
-   Test Automation Engineer
+- 👋 Hi, I’m @mchutt a Test Automation Engineer
 
 <!---
 mchutt/mchutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
